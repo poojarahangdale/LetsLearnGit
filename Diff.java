@@ -3,5 +3,6 @@ public class Diff{
         int a = 5;
         int b = 6;
         System.out.println("Diff is " + (a-b));
+        System.out.println("update");
     }
 }
